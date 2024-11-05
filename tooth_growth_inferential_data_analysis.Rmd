@@ -1,3 +1,4 @@
+STASTICAL INFERENCE COURSE PROJECT : BASIC INFERENTIAL DATA ANALYSIS
 ---
 title: "The Effect of Vitamin C on Tooth Growth in Guinea Pigs"
 author: "Matthew Bender"
